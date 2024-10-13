@@ -10,16 +10,16 @@ global.antitags = false;
 
 
 //auto functioner
-global.autoTyping = false;                //make true to enable auto typing
+global.autoTyping = true;                //make true to enable auto typing
 global.autoRecord = true;                //make true to enable auto recording
 global.autoviewstatus = false;                 //make true to view statuses 
 global.anticall = false
 
 
-global.SESSION_ID = process.env.SESSION_ID || ""
-global.Owner = ["2349151864541"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "♱MAKINO-MD-V2♱♡⃤";
+global.SESSION_ID = process.env.SESSION_ID || "taira_tech-z8tRQaia#OtzgCJDCAUspoNRzO04E8WadaSHep2gm8JsuK5lfX9Y"
+global.Owner = ["923122150392"]; //like 2347080968564 
+global.OwnerName =  "𒁍 𓆩๛⃝𝞛𝞒 𝞓𝞜𝞦𝞓𝞒𝞘‣᭄𓆪 𑁍 ̽•››̈";
+global.BotName = "𒁍 𓆩๛⃝𝞛𝞒 𝞓𝞜𝞦𝞓𝞒𝞘‣᭄𓆪 𑁍 ̽•››̈"; 
 global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
 global.author = "TAIRA MAKINO";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
@@ -62,7 +62,7 @@ global.mess = {
     jobdone: 'Here you go...',
     useradmin: 'Only group Admin can use the command 😂 ',
     botadmin: 'Make me Admin first 😌📍.',
-    botowner: 'Only my *Owner* can use this command!',
+    botowner: 'Only my *ANXARI* can use this command!',
     grouponly: 'This command is only made for *Groups*',
     privateonly: 'This command is only made for *Private Chat*',
     botonly: 'Only the *Bot itself* can use this command!',
